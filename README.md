@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-2CA5E0)
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-45ba4b)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 A multi-user Telegram bot that tracks live product prices from major e-commerce platforms and notifies you the moment a price drops below your custom target — straight to your Telegram chat, with the product image included.
 
@@ -143,7 +143,3 @@ Both need to be running for the bot to fully function: `telegram_bot.py` lets us
 - Make sure `.env` is included in `.gitignore` — it holds your bot token and should never be committed to version control.
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
