@@ -1,0 +1,4 @@
+.env
+tracker.db
+__pycache__/
+.vscode/
